@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-15 06:33:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-15 18:38:13,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -827,6 +827,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=9e72081921f9fd36b1db3c2bc7f09
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC动作电影,https://migu.188766.xyz/?migutoken=d7c2e0dba1fdb75fb8d428956b980f54&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
@@ -904,6 +905,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
@@ -1049,6 +1051,7 @@ CCTV-5+,https://hls-gateway.vpstv.net/streams/476888.m3u8
 快乐垂钓,https://migu.188766.xyz/?migutoken=f3057d0e91854bca6042a309f3cb3d6f&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=544e3d34b28ff37f3c6c72cf4d8ee72b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=103d22404add9b90cd72174eb1a0108b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+快乐垂钓,https://migu.188766.xyz/?migutoken=c6b17aba558cf29b13242b5ae063e5ed&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
