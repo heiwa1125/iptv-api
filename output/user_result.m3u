@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/heiwa1125/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://iptv.linsihao.top:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-16 23:01:29
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://iptv.linsihao.top:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-17 02:29:02
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://iptv.linsihao.top:5180/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -919,6 +919,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://iptv.linsihao.top:5180/logo/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://iptv.linsihao.top:5180/logo/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://iptv.linsihao.top:5180/logo/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://iptv.linsihao.top:5180/logo/纬来电影.png" group-title="🎬电影频道",纬来电影
